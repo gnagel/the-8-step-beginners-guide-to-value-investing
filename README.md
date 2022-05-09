@@ -11,6 +11,7 @@ by Freeman Publications
 5. You must be abel to mentally separate paper losses from real losses
 6. Long-term investing has multiple advantages over short-term trading.
 7. Just because you own a lot of differient companies does not mean you are diversified.
+8. When analyzing a business, remember to take into account the potential downside risk.
 
 ### Step 1 - Short-Term vs Long-Term
 Buy at a good price, hold for a long time
