@@ -12,6 +12,8 @@ by Freeman Publications
 6. Long-term investing has multiple advantages over short-term trading.
 7. Just because you own a lot of differient companies does not mean you are diversified.
 8. When analyzing a business, remember to take into account the potential downside risk.
+9. The presence of a divident is not an adequate substitute for a thourough evaluation of the quality of management.
+10. Don't invest in the hype. Examine the underlying business and industry prospects instead.
 
 ### Step 1 - Short-Term vs Long-Term
 Buy at a good price, hold for a long time
